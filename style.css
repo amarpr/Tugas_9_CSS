@@ -1,0 +1,13 @@
+body {
+    background-image: url(/img/slider2.jpg);
+    background-size: cover;
+}
+
+
+.content {
+    background-color: white;
+    width: 70%;
+    height: 50%;
+    margin-left: 30%;
+    text-align: right;
+}
